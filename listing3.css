@@ -1,6 +1,6 @@
+/* 用lessc命令生成对应的css文件*/
 p {
-  color: #ff0000;
-  font-size: 12px;
-  background-color: #008000;
+	color: #0000ff;
+	font-size: 24px;
+	background-color: #eeeeee;
 }
-
